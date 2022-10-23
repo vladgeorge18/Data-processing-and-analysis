@@ -1,0 +1,19 @@
+Data processing and analysis
+
+
+Task 1: Removes exceptions using static methods (e1)
+Calculates for each window the mean and deviation
+
+Task 2.1: Removes noise using median filtering (e2)
+
+Task 2.2: Eliminates noise using the mean value filtering (e3)
+
+Task 3: Handles non-uniform frequency data (u)
+
+Task 4: Filling in the data (c)
+
+Task 5: Data statistics (st<delta>, delta-interval length)
+It shows how much data there is in certain intervals
+
+How to run:
+Run arguments (e1, e2, e3, u, c, st<delta>) on the command line.
